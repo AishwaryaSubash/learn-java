@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book isbn="978-1-4028-9462-6">
+        <title>Romeo and Juliet</title>
+        <author>William Shakespeare</author>
+        <publication_year>1597</publication_year>
+        <genre>Tragedy</genre>
+        <publisher>Some Publisher</publisher>
+        <characters>
+            <character>
+                <name>Romeo</name>
+                <role>Protagonist</role>
+            </character>
+            <character>
+                <name>Juliet</name>
+                <role>Protagonist</role>
+            </character>
+        </characters>
+    </book>
+    <book isbn="978-1-4028-9462-7">
+        <title>The Jungle Book</title>
+        <author>Rudyard Kipling</author>
+        <publication_year>1894</publication_year>
+        <genre>Children's literature</genre>
+        <publisher>Another Publisher</publisher>
+    </book>
+    <book isbn="978-1-4028-9462-3">
+        <title>The Da Vinci Code</title>
+        <author>Dan Brown</author>
+        <publication_year>2003</publication_year>
+        <genre>Thriller</genre>
+        <publisher>Yet Another Publisher</publisher>
+    </book>
+    <book isbn="978-1-4028-9462-1">
+        <title>Wings of Fire</title>
+        <author>Dr. A.P.J. Abdul Kalam</author>
+        <publication_year>1999</publication_year>
+        <genre>Autobiography</genre>
+        <publisher>One More Publisher</publisher>
+    </book>
+</library>

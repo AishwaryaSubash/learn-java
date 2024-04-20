@@ -1,0 +1,1 @@
+This is a sample text file with some random content. We need to find a hidden message within this text. The hidden message might be hidden somewhere in this text file. Let's see if we can find it.
