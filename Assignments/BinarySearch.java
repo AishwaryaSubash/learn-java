@@ -18,7 +18,6 @@ public class BinarySearch {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Enter the size of the array: ");
         int size = scanner.nextInt();
         int[] arr = new int[size];
@@ -35,5 +34,6 @@ public class BinarySearch {
         } else {
             System.out.println("Element not found in the array");
         }
+        scanner.close();
     }
 }
