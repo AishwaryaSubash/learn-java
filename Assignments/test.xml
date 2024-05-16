@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-config>
+    <test-suite name="SmokeSuite" parallel="true">
+        <test-case class="TestClass" method="testMethod1"/>
+        <test-case class="TestClass" method="testMethod2"/>
+    </test-suite>
+    <test-suite name="RegressionSuite" parallel="false">
+        <test-case class="TestClass" method="testMethod3"/>
+        <test-case class="TestClass" method="testMethod4"/>
+    </test-suite>
+</test-config>
